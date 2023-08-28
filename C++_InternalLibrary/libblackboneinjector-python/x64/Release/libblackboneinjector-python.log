@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\VirusTest\source\repos\libblackboneinjector-python\x64\Release\libblackboneinjector-python.lib and object C:\Users\VirusTest\source\repos\libblackboneinjector-python\x64\Release\libblackboneinjector-python.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 432 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  libblackboneinjector-python.vcxproj -> C:\Users\VirusTest\source\repos\libblackboneinjector-python\x64\Release\libblackboneinjector-python.dll
